@@ -1,11 +1,4 @@
 #labels usage,syntax
-= Introduction =
-
-How to use mxdpi
-
-
-= Details =
-
 The syntax is:
 
 <pre>mxdpi <dpi level> <hidraw device></pre>
